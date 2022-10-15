@@ -26,9 +26,9 @@ THEN I find a concise, descriptive title
 
 # Screenshots
 
-![](Develop/assets/images/horiseon-1.png)
-![](Develop/assets/images/horiseon-2.png)
-![](Develop/assets/images/horiseon-3.png)
+![](assets/images/horiseon-1.png)
+![](assets/images/horiseon-2.png)
+![](assets/images/horiseon-3.png)
 
 # Links
 
