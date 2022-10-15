@@ -32,4 +32,4 @@ THEN I find a concise, descriptive title
 
 # Links
 
-<a href="https://github.com/courtneysacco/my-horiseon" target="_blank">Deployed Application</a>
+<a href="https://courtneysacco.github.io/my-horiseon/" target="_blank">Deployed Application</a>
